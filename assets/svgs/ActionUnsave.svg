@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ActionReport</title>
+    <g id="MASTER-DOC" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ACTION-PICKER-ALT-02" transform="translate(-16.000000, -722.000000)" fill="#262626">
+            <g id="ActionReport" transform="translate(16.106031, 722.500000)">
+                <path d="M0,14.7645516 C0,15.8108793 1.20326364,16.381713 1.99433525,15.7106307 L6.94182603,11.5135567 C7.48419517,11.0534381 8.27338059,11.0534381 8.81574973,11.5135567 L13.7632405,15.7106307 C14.5542817,16.381713 15.7575758,15.8108793 15.7575758,14.7645516 L15.7575758,4.81347797 C15.7575758,2.15508312 13.6340369,0 11.0145534,0 L4.74299194,0 C2.12350842,0 0,2.15508312 0,4.81347797 L0,14.7645516 Z" id="Fill-1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

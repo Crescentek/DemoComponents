@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ActionUnsave</title>
+    <g id="MASTER-DOC" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ACTION-PICKER-ALT-02" transform="translate(-16.000000, -668.000000)">
+            <g id="ActionUnsave" transform="translate(16.000000, 668.000000)">
+                <circle id="Oval" stroke="#262626" stroke-width="1.5" cx="8" cy="8" r="7.25"></circle>
+                <path d="M8.702,9.408 L9.086,3.492 L7.154,3.492 L7.538,9.408 L8.702,9.408 Z M8.114,12.096 C8.642,12.096 9.074,11.676 9.074,11.148 C9.074,10.62 8.642,10.188 8.114,10.188 C7.598,10.188 7.178,10.62 7.178,11.148 C7.178,11.676 7.598,12.096 8.114,12.096 Z" id="!" fill="#262626" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

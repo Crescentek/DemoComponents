@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="17px" viewBox="0 0 16 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ActionCancel</title>
+    <g id="MASTER-DOC" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ACTION-PICKER-ALT" transform="translate(-16.000000, -775.000000)" stroke="#262626">
+            <g id="ActionCancel" transform="translate(16.000000, 775.500000)">
+                <circle id="Oval" stroke-width="1.5" cx="8" cy="8" r="7.25"></circle>
+                <polygon id="Fill-1" stroke-width="0.25" fill="#262626" points="5.47343967 4.5 4.5772809 5.36926652 7.07181838 7.94110987 4.5 10.4356474 5.36921658 11.3318061 7.94105993 8.83729362 10.4356224 11.409112 11.3318061 10.5398455 8.83724368 7.9680271 11.409087 5.47346464 10.5398455 4.57730587 7.96800213 7.07186832"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

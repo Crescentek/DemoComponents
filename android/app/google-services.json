@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "522492505880",
+    "project_id": "demofontandtheme",
+    "storage_bucket": "demofontandtheme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522492505880:android:059c70c0fb20a13433386d",
+        "android_client_info": {
+          "package_name": "com.demofontandtheme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522492505880-624bt1i4kei37hois3274tfo5grb4jbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRemrtO_cuQcr0dAr0Lz9jkOuVtDtbAEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522492505880-624bt1i4kei37hois3274tfo5grb4jbn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "522492505880-es3efqeun143utlmho320uim3id4av4o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Crescentek.DemoFontAndTheme"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
